@@ -63,9 +63,8 @@ Still want to join? It is never too late. Just tell our organizers before/after 
 
 ## Let's get to know each other
 
-(You don't have to follow this:)
-
 <div class="left">
+
   <br>
   <ul>
     <li> Who are you? </li>
@@ -75,6 +74,11 @@ Still want to join? It is never too late. Just tell our organizers before/after 
   </ul>
 </div>
 
+<div class="right">
+
+![](https://skillslab.tue.nl/pathtoimg.php?id=4)
+
+</div>
 ---
 
 ## Sticky Notes
