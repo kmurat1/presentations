@@ -13,11 +13,11 @@
 <div class="left">
 <br><br>
 <ul>
- <li>Please fill out the sign-in sheet </li>
+ <li>Please fill out the sign-in sheet **each day** </li>
  <br>
- <li> Coffee will be at each session break  </li>
+ <li> Coffee will be at each session break </li>
  <li> Lunch will be at 13:00 </li>
- <li> Drinks will be at 17:00 </li>
+ <li> Drinks will be at 17:00 (Day 1 and Day 3)</li>
  <li> A complete schedule is in https://galaxy-2018.bioinformatician.science/program</li>
 </ul>
 </div>
@@ -43,11 +43,11 @@
   <li> **Time:** Thursday, 19:00 </li>
   <li> **Restaurant:** 1e Klas </li>
   <li> **Location:** Amsterdam CS </li>
-  <li> **Getting there:** </li>
+  <li> **Getting there:** Tram Line 52 or 51 </li>
  </ul>
 </div>
 
-Still want to join? It is never too late. Just tell our co-organizers.
+Still want to join? It is never too late. Just tell our organizers before/after signing the [Google forms](https://goo.gl/forms/c2SRaSpdjWo7EJyu2)
 
 <div class="right">
 
@@ -61,7 +61,7 @@ Still want to join? It is never too late. Just tell our co-organizers.
 
 ## Introduce yourself
 
-(You don't have to follow this:)
+(You don't have to follow this logic:)
 
 <div class="left">
   <br>
