@@ -47,9 +47,9 @@
  </ul>
 </div>
 
-Still want to join? It is never too late. Just tell our organizers before/after signing the [Google forms](https://goo.gl/forms/c2SRaSpdjWo7EJyu2)
-
 <div class="right">
+
+Still want to join? It is never too late. Just tell our organizers before/after signing the [Google forms](https://goo.gl/forms/c2SRaSpdjWo7EJyu2)
 
 ![](https://restaurant1eklas.nl/wp-content/uploads/2015/07/Amdsterdam-Central-Station-Amsterdam-January-2012-Alexander-T-2000x1333.jpg)
 
@@ -59,9 +59,9 @@ Still want to join? It is never too late. Just tell our organizers before/after 
 
 +++
 
-## Introduce yourself
+## Let's get to know each other
 
-(You don't have to follow this logic:)
+(You don't have to follow this:)
 
 <div class="left">
   <br>
@@ -121,7 +121,7 @@ Still want to join? It is never too late. Just tell our organizers before/after 
 
 3. Verify your registration (e-mail confirmation)
 
-3. Join the workshop: https://usegalaxy.eu/join-training/ElixirNL2018
+4. Join the workshop: https://usegalaxy.eu/join-training/ElixirNL2018
 
 
 +++
