@@ -45,6 +45,8 @@
   <li> **Location:** Amsterdam CS </li>
   <li> **Getting there:** Tram Line 52 or 51 </li>
  </ul>
+
+ More information please view [here](https://galaxy-2018.bioinformatician.science/venue)
 </div>
 
 <div class="right">
