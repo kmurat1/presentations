@@ -51,7 +51,7 @@
 
 <div class="right">
 
-Still want to join? It is never too late. Just tell our organizers before/after signing the [Google forms](https://goo.gl/forms/c2SRaSpdjWo7EJyu2)
+Sign up and make your dish choice in [Google forms](https://goo.gl/forms/c2SRaSpdjWo7EJyu2)
 
 ![](https://restaurant1eklas.nl/wp-content/uploads/2015/07/Amdsterdam-Central-Station-Amsterdam-January-2012-Alexander-T-2000x1333.jpg)
 
