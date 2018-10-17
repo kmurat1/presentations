@@ -8,6 +8,9 @@
 
 ## Organizational remarks
 
+???
+Welcome to Amsterdam and welcome to join this workshop in Amsterdam. We hope you have a wonderful time here and can learn something useful for your work from this workshop. This workshop is financially supported by ELIXIR Excelerate and organized by ELIXIR NL, VU University Amsterdam and ELIXIR Galaxy community/Galaxy Training Network. 
+
 +++
 
 <div class="left">
