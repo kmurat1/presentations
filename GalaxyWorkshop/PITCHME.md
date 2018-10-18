@@ -188,13 +188,24 @@ Sign up and make your dish choice in [Google forms](https://goo.gl/forms/c2SRaSp
 
 +++
 
+### Reminder
+
+1. fill out the sign-in sheet
+2. Social dinner at 19:00
+
+### Pathway Analysis with Heinz (Morning Day 2)
+
+1. Part 1: An introduction to a metatranscriptomics study based on Heinz (40-min)
+2. Part 2: Tutorial on Heinz
+3. Part 3: Review this tutorial together (20 min)
+
 ### Training manual (Morning Day 2)
 
 1. Navigate to: https://training.galaxyproject.org
 
 2. Choose topic: **Transcriptomics**
 
-3. Choose tutorial: **Pinpoint key pathways using Heinz**
+3. Choose tutorial: **Network analysis with Heinz**
 
 4. Have fun!
 
