@@ -199,6 +199,8 @@ Sign up and make your dish choice in [Google forms](https://goo.gl/forms/c2SRaSp
 2. Part 2: Tutorial on Heinz
 3. Part 3: Review this tutorial together (20 min)
 
++++
+
 ### Training manual (Morning Day 2)
 
 1. Navigate to: https://training.galaxyproject.org
